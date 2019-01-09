@@ -1,7 +1,7 @@
 /**
 * Esta clase muestra cómo realizar bucles
 * @author Lourdes Magarín
-* @version 1.0
+* @version 3.0
 */
 public class ALaDeUna {
 	/**
